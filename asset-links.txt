@@ -1,0 +1,6 @@
+warrior: https://opengameart.org/content/wizard-warrior
+wizard: https://opengameart.org/content/wizard-5
+thief: http://pngimg.com/download/50072
+unknown: http://pngimg.com/download/38180
+fight: https://toppng.com/show_download/123305/sword-and-shield-png/large
+img: https://www.behance.net/gallery/57791525/Fantasy-Background-Illustration-in-Vector
